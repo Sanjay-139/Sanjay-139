@@ -1,7 +1,7 @@
 # Hi there 👋 It's me Sanjay
 
 Student @ Amrita Vishwa Vidyapeetham 
-- <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmFrbnV3dTV4ZzJyczh0aWlubWIwZXl5dHNhOGw0eWh6Y2xwNmQzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/giphy.gif">
+<img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmFrbnV3dTV4ZzJyczh0aWlubWIwZXl5dHNhOGw0eWh6Y2xwNmQzNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xaO6TmgQmKEQ4516sE/giphy.gif">
 - Here's my [portfolio](www.linkedin.com/in/sanjay-b-9082013a2)                                                 
 - 😎 I’m currently learning  DSA and Integrating AI to my workflow
 - Web developer
